@@ -16,7 +16,10 @@ Je termine un stage à la DSI de la mairie de Gonesse, où j'ai assuré des miss
 - **Automatisation :**
   - script bash de nettoyage et d'uniformisation de données Excel pour les migrer vers une base de données
   - script powershell de collecte automatique des informations matérielles des postes
-    
+
+## Projets
+- 🗂️ **[Inventaire DSI]([https://github.com/elelji/Inventaire-mairie])** : application web de gestion du parc informatique (FastAPI, SQLite, Docker)
+
 ## Me contacter
 - [LinkedIn](https://www.linkedin.com/in/emma-louisy-louis-joseph/)
 - ma.louisy@gmail.com
