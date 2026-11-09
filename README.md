@@ -1,7 +1,7 @@
 # Emma L.
 **Étudiante Bac+1 Développement & Exploitation (CNAM) · Recherche une alternance dès septembre 2027**
 
-Je termine un stage à la DSI de la mairie de Gonesse, où j'ai assuré des missions de déploiement de postes et de maintenance informatique, et développé de bout en bout une **application web d'inventaire du parc informatique**.
+Je termine un stage à la DSI d'une mairie d'Ile de France, où j'ai assuré des missions de déploiement de postes et de maintenance informatique, et développé de bout en bout une **application web d'inventaire du parc informatique**.
 
 🌱 **Le problème :** le matériel était suivi dans des fichiers Excel dispersés, avec des doublons et une recherche difficile.
 🌱 **La solution :** une application centralisée avec recherche avancée, gestion des emplacements, export Excel, déploiement via Docker, et automatisation de la collecte des données par scripts.
